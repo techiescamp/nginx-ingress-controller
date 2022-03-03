@@ -7,7 +7,7 @@ Kubernetes Nginx ingress controller manifests
 If you are preparing for CKA, CKAD, CKS or KCNA exam, get 22% discount today using code DCUBE22 at https://kube.promo/latest. It is a limited time offer
 
 
-## Kubernetes Nginx ingress controller Setup Documentation
+## ✏️ Kubernetes Nginx ingress controller Setup Documentation
 
 Detailed nginx ingress setup guide is documented here https://devopscube.com/setup-ingress-kubernetes-nginx-controller/
 
