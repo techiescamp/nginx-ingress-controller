@@ -6,6 +6,7 @@ metadata:
     app.kubernetes.io/component: controller
     app.kubernetes.io/instance: ingress-nginx
     app.kubernetes.io/name: ingress-nginx
+  annotations:
   name: ingress-nginx-controller
   namespace: ingress-nginx
 spec:
