@@ -11,7 +11,7 @@ If you are preparing for CKA, CKAD, CKS or KCNA exam, get 22% discount today usi
 
 Detailed nginx ingress setup guide is documented here https://devopscube.com/setup-ingress-kubernetes-nginx-controller/
 
-## Other References:
+## 👉 Other References:
 
 1. [Ingress Explained for beginners with diagrams](https://devopscube.com/kubernetes-ingress-tutorial/)
 2. [GCP ingress controller annotations](https://cloud.google.com/kubernetes-engine/docs/how-to/load-balance-ingress#ingress_annotations)
