@@ -3,16 +3,18 @@ kind: Ingress
 metadata:
   name: hello-app-ingress
   namespace: dev
+  annotations:
+    nginx.ingress.kubernetes.io/ssl-redirect: "false"
 spec:
   ingressClassName: nginx
   rules:
-  - host: "demo.apps.mlopshub.com"
+  - host: demo.devopsproject.dev
     http:
       paths:
-        - pathType: Prefix
-          path: "/"
-          backend:
-            service:
-              name: hello-service
-              port:
-                number: 80
+      - pathType: Prefix
+        path: "/"
+        backend:
+          service:
+            name: hello-service
+            port:
+              number: 80
