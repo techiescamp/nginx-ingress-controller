@@ -4,7 +4,7 @@ Kubernetes Nginx ingress controller manifests
 
 ## 🚀 CKA, CKAD, CKS or KCNA Voucher Codes
 
-If you are preparing for CKA, CKAD, CKS or KCNA exam, get **$80 discount** today using code **DCUBE20** at https://kube.promo/devops. It is a limited-time offer
+If you are preparing for CKA, CKAD, CKS or KCNA exam, get **$80 discount** today using code **DCUBE30** at https://kube.promo/devops. It is a limited-time offer
 
 ## ✏️ Kubernetes Nginx ingress controller Setup Documentation
 
